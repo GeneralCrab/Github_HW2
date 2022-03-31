@@ -1,0 +1,6 @@
+Bug_ID
+Bug_summary
+Testing enviroment
+Bug Preority
+Bug Severity
+Steps to reproduce
